@@ -1,0 +1,8 @@
+*=Multiply
++=Plus
+-=Minus
+/=Divide
+^=Exponent
+%=Mod
+\!=Negate
+\"=String
